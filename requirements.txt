@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-community
+langchain-text-splitters
+langchain-chroma
+langchain-google-genai
+sentence-transformers
+chromadb
+beautifulsoup4
+lxml
